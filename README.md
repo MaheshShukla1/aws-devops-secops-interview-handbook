@@ -23,7 +23,7 @@ This is a **complete industry-ready interview handbook** for **AWS, DevOps, SecO
 
 - [CS Fundamentals](./01_cs-fundamentals.md)  
   - OOPs, DBMS, OS, Computer Networks  
-- [AWS Core](./02_aws-core.md)  
+- [AWS Core](./02_aws_core.md)  
   - IAM, EC2, VPC, S3, RDS, Route53, Monitoring, Cost Optimization  
 - [DevOps Tools](./03_devops_tooling.md)  
   - Terraform, Ansible, Jenkins, Docker, Kubernetes, Helm, Git  
