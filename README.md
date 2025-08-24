@@ -27,7 +27,7 @@ This is a **complete industry-ready interview handbook** for **AWS, DevOps, SecO
   - IAM, EC2, VPC, S3, RDS, Route53, Monitoring, Cost Optimization  
 - [DevOps Tools](./03_devops_tooling.md)  
   - Terraform, Ansible, Jenkins, Docker, Kubernetes, Helm, Git  
-- [Linux & Security](./04_linux-security.md)  
+- [Linux & Security](./04_linux_security.md)  
   - Linux basics, troubleshooting, permissions, SSH, encryption  
 - [Python & Boto3](./05_python_boto3.md)  
   - Automation scripts, boto3 usage, exception handling  
