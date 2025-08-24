@@ -21,21 +21,21 @@ This is a **complete industry-ready interview handbook** for **AWS, DevOps, SecO
 
 ## 🗂️ Table of Contents
 
-- [CS Fundamentals](./cs-fundamentals.md)  
+- [CS Fundamentals](./01_cs-fundamentals.md)  
   - OOPs, DBMS, OS, Computer Networks  
-- [AWS Core](./aws-core.md)  
+- [AWS Core](./02_aws-core.md)  
   - IAM, EC2, VPC, S3, RDS, Route53, Monitoring, Cost Optimization  
-- [DevOps Tools](./devops-tools.md)  
+- [DevOps Tools](./03_devops_tooling.md)  
   - Terraform, Ansible, Jenkins, Docker, Kubernetes, Helm, Git  
-- [Linux & Security](./linux-security.md)  
+- [Linux & Security](./04_linux-security.md)  
   - Linux basics, troubleshooting, permissions, SSH, encryption  
-- [Python & Boto3](./python-boto3.md)  
+- [Python & Boto3](./05_python-boto3.md)  
   - Automation scripts, boto3 usage, exception handling  
 - [SecOps](./secops.md)  
   - Cloud Security, Container Security, CI/CD Security, Secrets Mgmt  
-- [Behavioral & Troubleshooting](./behavioral.md)  
+- [Behavioral & Troubleshooting](./06_behavioral_troubleshooting.md)  
   - HR questions, on-call debugging, real-world scenarios  
-- [Cheatsheets](./cheatsheets/)  
+- [Cheatsheets](https://github.com/MaheshShukla1/Cheatsheet)  
   - Quick reference diagrams & commands  
 
 ---
