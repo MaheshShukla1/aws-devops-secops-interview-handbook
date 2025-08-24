@@ -29,7 +29,7 @@ This is a **complete industry-ready interview handbook** for **AWS, DevOps, SecO
   - Terraform, Ansible, Jenkins, Docker, Kubernetes, Helm, Git  
 - [Linux & Security](./04_linux-security.md)  
   - Linux basics, troubleshooting, permissions, SSH, encryption  
-- [Python & Boto3](./05_python-boto3.md)  
+- [Python & Boto3](./05_python_boto3.md)  
   - Automation scripts, boto3 usage, exception handling  
 - [SecOps](./secops.md)  
   - Cloud Security, Container Security, CI/CD Security, Secrets Mgmt  
